@@ -1,5 +1,3 @@
----
-
 # Arsitektur
 
 ```text
