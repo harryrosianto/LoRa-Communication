@@ -1,5 +1,3 @@
-Sip. Kita mulai dari **Bagian 1 (ESP32 Sensor / Transmitter)**. Saya akan membuatnya seolah-olah ini proyek akhir, jadi kodenya rapi dan mudah dikembangkan.
-
 ---
 
 # Arsitektur
